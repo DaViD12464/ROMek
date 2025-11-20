@@ -1,0 +1,38 @@
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment files (secrets)
+.env
+
+# IDE folders
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Visual Studio cache
+.vs/
+
+# Resharper
+_ReSharper*/
+
+# NuGet packages
+*.nupkg
+packages/
+
